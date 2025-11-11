@@ -18,15 +18,14 @@ I thrive on architecting and optimizing the backend. I'm actively seeking full-t
 
 ### 🚀 What I'm Passionate About
 
-I am most comfortable when I am deep in the backend, architecting systems that are both robust and efficient. I don't just write code; I build systems.
+I'm driven by the challenge of "how to build it right" so that it's clean, scalable, and efficient. I don't just write code; I build systems.
 
-  * **System Optimization & Scalability:** My core focus. I enjoy thinking about clean code, scalable architecture, and performance tuning, including concepts like multithreading, multiprocessing, and even Python-C++ bindings.
-  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core (e.g., building a Monte Carlo simulator).
-  * **Creative Integration:** I excel at integrating, fine-tuning, and customizing existing tools, models, and techniques to solve a specific problem. I'm an adapter and a builder, not a pure UI developer.
+  * **System Optimization & Scalability:** I enjoy working on clean code, scalable architecture, and performance optimization, including concepts like multithreading, multiprocessing, and vectorization.
+  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I'm currently exploring the bridge between high-level and high-performance languages, such as Python C++ bindings.
+  * **Creative Integration:** I excel at integrating, fine-tuning, and customizing existing tools, models, and techniques to solve a specific problem.
+
 
 ### 🛠️ My Tech Stack & Core Competencies
-
-**Note:** You must be truthful here. List what you know. Delete or add as needed.
 
   * **Programming Languages:** Python, SQL, C++ (exploring), Bash
   * **Data Engineering:** Apache Spark, Apache Airflow, dbt, Docker, PostgreSQL, [Add: e.g., Kafka, RabbitMQ, Data Warehouses like BigQuery/Snowflake]
