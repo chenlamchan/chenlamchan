@@ -27,13 +27,7 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 
 ### 🛠️ My Tech Stack & Core Competencies
 
-  * **Programming Languages:**
-    <span style="color: red;">Python</span>
-    SQL
-    Rust
-    Go
-    Scala
-    
+  * **Programming Languages:** Python, SQL, Rust, Go, Scala
   * **Data Engineering:** Apache Spark, Apache Airflow, dbt, Docker, PostgreSQL, [Add: e.g., Kafka, RabbitMQ, Data Warehouses like BigQuery/Snowflake]
   * **MLOps & DevOps:** MLflow, Kubernetes, Terraform, CI/CD (GitHub Actions), [Add: e.g., Kubeflow, Jenkins, AWS/GCP/Azure]
   * **Libraries:** Pandas, NumPy, Scikit-learn, [Add: e.g., TensorFlow, PyTorch]
@@ -47,3 +41,16 @@ I am always open to discussing technology, optimization, or interesting opportun
   * **Email:** `[your-email@example.com]`
 
 -----
+
+| Language | Badge |
+| :--- | :--- |
+| Python | ![Python](https://img.shields.io/badge/Python-336699?style=for-the-badge&logo=python&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-336699?style=for-the-badge&logo=javascript&logoColor=white) |
+| SQL | ![SQL](https://img.shields.io/badge/SQL-336699?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+### 🧭 Exploring (Currently Learning)
+
+| Language | Badge |
+| :--- | :--- |
+| Rust | ![Rust](https://img.shields.io/badge/Rust-FFBF00?style=for-the-badge&logo=rust&logoColor=black) |
+| Go | ![Go](https://img.shields.io/badge/Go-FFBF00?style=for-the-badge&logo=go&logoColor=black) |
