@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email">
 </a>
 
-I am a Data Engineer and MLOps Engineer passionate about building clean, scalable, and highly optimized data systems.
+I am a Data Engineer and MLOps Engineer who brings a system-level engineering mindset to building clean, scalable, and highly optimized production-grade data systems.
 
 My journey is unique: I spent over 4 years as a Mechanical Design Engineer, solving complex physical system challenges. 
 I've now completed a **Master's in Computer Science** to pivot that same engineering discipline—rigorous logic, system-level thinking, and a passion for optimization—to the world of data and machine learning infrastructure.
