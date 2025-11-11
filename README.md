@@ -40,17 +40,4 @@ I am always open to discussing technology, optimization, or interesting opportun
   * **LinkedIn:** `https://linkedin.com/in/[your-linkedin-username]`
   * **Email:** `[your-email@example.com]`
 
------
-
-| Language | Badge |
-| :--- | :--- |
-| Python | ![Python](https://img.shields.io/badge/Python-336699?style=for-the-badge&logo=python&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-336699?style=for-the-badge&logo=javascript&logoColor=white) |
-| SQL | ![SQL](https://img.shields.io/badge/SQL-336699?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-### 🧭 Exploring (Currently Learning)
-
-| Language | Badge |
-| :--- | :--- |
-| Rust | ![Rust](https://img.shields.io/badge/Rust-FFBF00?style=for-the-badge&logo=rust&logoColor=black) |
-| Go | ![Go](https://img.shields.io/badge/Go-FFBF00?style=for-the-badge&logo=go&logoColor=black) |
+----
