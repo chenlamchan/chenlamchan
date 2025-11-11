@@ -27,7 +27,13 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 
 ### 🛠️ My Tech Stack & Core Competencies
 
-  * **Programming Languages:** Python, SQL, C++ (exploring), Bash
+  * **Programming Languages:**
+    Python
+    SQL
+    Rust
+    Go
+    Scala
+    
   * **Data Engineering:** Apache Spark, Apache Airflow, dbt, Docker, PostgreSQL, [Add: e.g., Kafka, RabbitMQ, Data Warehouses like BigQuery/Snowflake]
   * **MLOps & DevOps:** MLflow, Kubernetes, Terraform, CI/CD (GitHub Actions), [Add: e.g., Kubeflow, Jenkins, AWS/GCP/Azure]
   * **Libraries:** Pandas, NumPy, Scikit-learn, [Add: e.g., TensorFlow, PyTorch]
