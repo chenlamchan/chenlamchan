@@ -28,7 +28,7 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 ### 🛠️ My Tech Stack & Core Competencies
 
   * **Programming Languages:**
-    Python
+    <span style="color: red;">Python</span>
     SQL
     Rust
     Go
