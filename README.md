@@ -35,24 +35,6 @@ I am most comfortable when I am deep in the backend, architecting systems that a
   * **Libraries:** Pandas, NumPy, Scikit-learn, [Add: e.g., TensorFlow, PyTorch]
   * **Concepts:** Data Pipelines (ETL/ELT), System Design, Data Modeling, Microservices, CI/CD for Machine Learning
 
-### 🌱 What I'm Currently Working On
-
-  * Deepening my understanding of distributed systems with [e.g., Apache Spark, Kubernetes].
-  * Exploring high-performance computing with Python-C++ bindings (pybind11).
-  * Progressing my Japanese language skills from JLPT N4 to **N3**.
-  * Building [Mention 1-2 key projects from your GitHub].
-
-### 🌏 My Background
-
-  * **M.Sc. Computer Science** (Mixed-Mode) | *Universiti Teknologi Malaysia (UTM)*
-  * **B.Eng. Mechanical Engineering** | *[Your University]*
-  * **Mechanical Design Engineer** | *Dyson (4+ Years)*
-  * **Languages:**
-      * 🇬🇧 English (Fluent)
-      * 🇨🇳 Mandarin (Native)
-      * 🇲🇾 Malay (Fluent)
-      * 🇯🇵 Japanese (JLPT N4, progressing to N3)
-
 ### 📫 Let's Connect
 
 I am always open to discussing technology, optimization, or interesting opportunities.
@@ -61,6 +43,3 @@ I am always open to discussing technology, optimization, or interesting opportun
   * **Email:** `[your-email@example.com]`
 
 -----
-Your background and interests are a perfect match for these roles. You just need to create the "evidence" (projects) and this GitHub profile will tie it all together.
-
-Would you like me to help you brainstorm a specific project based on your Master's research?
