@@ -13,7 +13,7 @@ I am a Data Engineer and MLOps Engineer who brings a system-level engineering mi
 My journey is unique: I spent over 4 years as a Mechanical Design Engineer, solving complex physical system challenges. 
 I've now completed a **Master's in Computer Science** to pivot that same engineering discipline—rigorous logic, system-level thinking, and a passion for optimization—to the world of data and machine learning infrastructure.
 
-I thrive on solving difficult backend problems and am actively seeking Data Engineer or MLOps Engineer opportunities.
+I thrive on architecting and optimizing the backend. I'm actively seeking full-time Data Engineer or MLOps Engineer opportunities.
 
 -----
 
