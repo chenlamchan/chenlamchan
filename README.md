@@ -1,7 +1,7 @@
 # Hi there, I'm Chen Lam 👋
 
-\<a href="[https://linkedin.com/in/](https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/)[your-linkedin-username]"\>\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"\>\</a\>
-\<a href="mailto:[your-email@example.com]"\>\<img src="[https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite)" alt="Email"\>\</a\>
+<a href="[https://linkedin.com/in/](https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/)[your-linkedin-username]"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dflat-square%26logo%3Dlinkedin%26logoColor%3Dwhite)" alt="LinkedIn"></a>
+<a href="mailto:[your-email@example.com]"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite)" alt="Email"></a>
 
 I am a Data Engineer and MLOps Engineer passionate about building clean, scalable, and highly optimized data systems.
 
