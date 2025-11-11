@@ -8,7 +8,7 @@ I am a Data Engineer and MLOps Engineer passionate about building clean, scalabl
 My journey is unique: I spent over 4 years as a Mechanical Design Engineer, solving complex physical system challenges. 
 I've now completed a **Master's in Computer Science** to pivot that same engineering discipline—rigorous logic, system-level thinking, and a passion for optimization—to the world of data and machine learning infrastructure.
 
-I thrive on solving difficult backend problems and am actively seeking Data Engineer or MLOps Engineer opportunities in **Singapore, Taiwan, Japan, or Malaysia**.
+I thrive on solving difficult backend problems and am actively seeking Data Engineer or MLOps Engineer opportunities.
 
 -----
 
