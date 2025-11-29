@@ -28,7 +28,7 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 ### 🛠️ My Tech Stack & Core Competencies
 
   * **Programming Languages:** Python, SQL, Rust, Go, Scala
-  * **Data Engineering:** Apache Kafka, Apache Spark,  Docker,
+  * **Data Engineering:** Apache Kafka, Apache Spark
   * **Databases & Storage:** Data Lakehouse (Apache Iceberg), OLAP (Clickhouse)
   * **Containerization & Orchestration**: Docker
   * **MLOps & DevOps:** 
