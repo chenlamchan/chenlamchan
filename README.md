@@ -21,7 +21,7 @@ I thrive on architecting and optimizing the backend. I'm actively seeking full-t
 I'm driven by the challenge of "how to build it right" so that it's clean, scalable, and efficient. I don't just write code; I build systems.
 
   * **System Optimization & Scalability:** I enjoy working on clean code, scalable architecture, and performance optimization, including concepts like multithreading, multiprocessing, and vectorization.
-  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I'm currently exploring the bridge between high-level and high-performance languages, such as Python C++ bindings.
+  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I'm currently exploring the bridge between high-level and high-performance languages, such as Python Rust bindings.
   * **Creative Integration:** I excel at integrating, fine-tuning, and customizing existing tools, models, and techniques to solve a specific problem.
 
 
