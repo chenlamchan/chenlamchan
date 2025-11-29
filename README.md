@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:chenlam.chan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email">
 </a>
 
@@ -40,6 +40,6 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 I am always open to discussing technology, optimization, or interesting opportunities.
 
   * **LinkedIn:** `https://linkedin.com/in/[your-linkedin-username]`
-  * **Email:** `[your-email@example.com]`
+  * **Email:** `chenlam.chan@gmail.com`
 
 ----
