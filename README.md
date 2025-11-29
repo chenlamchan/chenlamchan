@@ -30,7 +30,7 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
   * **Programming Languages:** Python, SQL, Rust, Go, Scala
   * **Data Engineering:** Apache Kafka, Apache Spark,  Docker,
   * **Databases & Storage:** Data Lakehouse (Apache Iceberg), OLAP (Clickhouse)
-  * **Containerization & Orchestration: Docker
+  * **Containerization & Orchestration**: Docker
   * **MLOps & DevOps:** 
   * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch
   * **Concepts:** Event Streaming and Processing, Data Pipelines (ETL/ELT), System Design, Data Modeling
