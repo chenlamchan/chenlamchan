@@ -10,7 +10,7 @@
 
 I am a Data Engineer and MLOps Engineer who brings a system-level engineering mindset to building clean, scalable, and highly optimized production-grade data systems.
 
-My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I'm now applying that same 'systems-first' engineering rigor to data infrastructure. This pivot has been a deliberate, multi-year effort, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. And the life-long journey towards Principal level continues.
+My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I'm now applying that same 'systems-first' engineering rigor to data infrastructure. This pivot has been a deliberate, multi-year effort, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. And the journey towards Principal Level continues.
 
 I thrive on architecting and optimizing the backend. I'm actively seeking full-time Data Engineer or MLOps Engineer opportunities.
 
