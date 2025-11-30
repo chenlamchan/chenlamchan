@@ -38,7 +38,7 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 
 ### 📫 Let's Connect
 
-I am always open to discussing technology, optimization, or interesting opportunities.
+I am always open to discussing technology, data system, optimization, or interesting opportunities.
 
   * **LinkedIn:** `https://linkedin.com/in/[your-linkedin-username]`
   * **Email:** `chenlam.chan@gmail.com`
