@@ -38,9 +38,11 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 
 ### 📫 Let's Connect
 
-I am always open to discussing technology, data system, optimization, or interesting opportunities.
+I am dedicated to continuous improvement and lifelong learning. If you have any feedback, suggestions for enhancement, or innovative ideas for any of my projects, please don't hesitate to open an issue or reach out directly. Your insights are invaluable as I strive to refine my skills and code.
+Nevertheless, I am always open to discussing technology, data system, optimization, or interesting opportunities.
 
   * **LinkedIn:** `https://linkedin.com/in/[your-linkedin-username]`
   * **Email:** `chenlam.chan@gmail.com`
+
 
 ----
