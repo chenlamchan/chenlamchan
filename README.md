@@ -29,7 +29,7 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
 
   * **Programming Languages:** Python, SQL, Rust (WIP), Go(WIP), Scala(WIP)
   * **Data Engineering:** Apache Kafka, Apache Spark
-  * **Databases & Storage:** Data Lakehouse (Apache Iceberg), OLAP (Clickhouse)
+  * **Databases & Storage:** Apache Iceberg (Data Lakehouse), Clickhouse (OLAP), MinIO (Object)
   * **Visualization & BI:** Apache Superset
   * **Containerization & Orchestration**: Docker
   * **MLOps & DevOps:** 
