@@ -30,8 +30,9 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
   * **Programming Languages:** Python, SQL, Rust (WIP)
   * **Data Engineering:** Apache Kafka, Apache Spark, Apache Flink
   * **Databases, Format & Storage:** Apache Iceberg, Apache Paimon, Clickhouse (OLAP), MinIO (Object)
-  * **Visualization & BI:** Apache Superset
+  * **Visualization & BI:** Apache Superset, Grafana
   * **Containerization & Orchestration**: Docker
+  * **Observability & Monitoring**: Grafana, Prometheus, Tempo, Loki
   * **MLOps & DevOps:** 
   * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch
   * **Concepts:** Event Streaming and Processing, Data Pipelines (ETL/ELT), System Design, Data Modeling
