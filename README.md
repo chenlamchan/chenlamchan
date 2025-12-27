@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email">
 </a>
 
-I am a Data Engineer who brings a system-level engineering mindset to building scalable and optimized production-grade data systems.
+I am a Data Engineer who brings a system-level engineering mindset to building scalable data infrastructure.
 
-My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I'm now applying that same 'systems-first' engineering rigor to data infrastructure. This pivot has been a deliberate, multi-year effort, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. And the journey towards Principal Level continues.
+My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I have translating 'systems-first' engineering rigor —optimizing for constraints, efficiency, and reliability—directly into Distributed Data Systems. This pivot has been a deliberate, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. I don’t just write pipelines; I engineer fault-tolerant, high-throughput systems.
 
 I thrive on architecting and optimizing the backend. I'm actively seeking full-time Data Engineer.
 
@@ -18,10 +18,10 @@ I thrive on architecting and optimizing the backend. I'm actively seeking full-t
 
 ### 🚀 What I'm Passionate About
 
-I'm driven by the challenge of "how to build it right" so that it's clean, scalable, and efficient. I don't just write code; I build systems.
+I specialize in the intersection of Backend Engineering and Data Infrastructure. I am driven by the challenge of "building it right"—creating clean, performant architectures that handle massive scale without technical debt.
 
-  * **System Optimization & Scalability:** I enjoy working on clean code, scalable architecture, and performance optimization, including concepts like multithreading, multiprocessing, and vectorization.
-  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I'm currently exploring the bridge between high-level and high-performance languages, such as Python Rust bindings.
+  * **Modern Data Architecture:** I enjoy architecting streaming and batch solutions with open-sourced tools.
+  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I like applying concepts like multithreading, multiprocessing, and vectorization to optimize performance. I'm currently exploring the bridge between high-level and high-performance languages, such as Python Rust bindings. 
   * **Creative Integration:** I excel at integrating, fine-tuning, and customizing existing tools, models, and techniques to solve a specific problem.
 
 
