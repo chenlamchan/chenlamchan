@@ -33,7 +33,6 @@ I'm driven by the challenge of "how to build it right" so that it's clean, scala
   * **Visualization & BI:** Apache Superset, Grafana
   * **Containerization & Orchestration**: Docker
   * **Observability & Monitoring**: Grafana, Prometheus, Tempo, Loki
-  * **MLOps & DevOps:** 
   * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch
   * **Concepts:** Event Streaming and Processing, Data Pipelines (ETL/ELT), System Design, Data Modeling
 
