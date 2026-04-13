@@ -12,13 +12,13 @@ I am a Data Engineer who brings a system-level engineering mindset to building s
 
 My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I have translating 'systems-first' engineering rigor —optimizing for constraints, efficiency, and reliability—directly into Distributed Data Systems. This pivot has been a deliberate, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. I don’t just write pipelines; I engineer fault-tolerant, high-throughput systems.
 
-I thrive on architecting and optimizing the backend. I'm actively seeking full-time Data Engineer.
+I thrive on architecting the "hard" side of the backend—optimizing for efficiency, reliability, and mathematical logic. I am currently seeking full-time Data Engineering roles where I can apply this dual-domain depth to solve industrial-scale challenges.
 
 -----
 
 ### 🚀 What I'm Passionate About
 
-I specialize in the intersection of Backend Engineering and Data Infrastructure. I am driven by the challenge of "building it right"—creating clean, performant architectures that handle massive scale without technical debt.
+I am driven by the challenge of "building it right"—creating architectures that handle the nuances of real-world data (noise, sampling, physics) while maintaining the performance of a modern cloud-native stack.
 
   * **Modern Data Architecture:** I enjoy architecting streaming and batch solutions with open-sourced tools.
   * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I like applying concepts like multithreading, multiprocessing, and vectorization to optimize performance. I'm currently exploring the bridge between high-level and high-performance languages, such as Python Rust bindings. 
