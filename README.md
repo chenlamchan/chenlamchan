@@ -34,7 +34,7 @@ I am driven by the challenge of "building it right"—creating architectures tha
   * **Containerization & Orchestration**: Docker
   * **Observability & Monitoring**: Grafana, Prometheus, Tempo, Loki
   * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch
-  * **Concepts:** Event Streaming and Processing, Data Pipelines (ETL/ELT), System Design, Data Modeling
+  * **Concepts:** Event Streaming and Processing, Data Pipelines (ETL/ELT), System Design, Data Modeling, Data Wrangling, Descriptive and Inferential Statistics
 
 ### 📫 Let's Connect
 
