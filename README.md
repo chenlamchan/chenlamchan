@@ -12,7 +12,7 @@ I am a Data Engineer who brings a system-level engineering mindset to building s
 
 My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I have translating 'systems-first' engineering rigor —optimizing for constraints, efficiency, and reliability—directly into Distributed Data Systems. This pivot has been a deliberate, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. I don’t just write pipelines; I engineer fault-tolerant, high-throughput systems.
 
-I thrive on architecting the "hard" side of the backend—optimizing for efficiency, reliability, and mathematical logic. I am currently seeking full-time Data Engineering roles where I can apply this dual-domain depth to solve industrial-scale challenges.
+I thrive on architecting the "hard" side of the backend—optimizing for efficiency, reliability, and mathematical logic, in order to produce predictive and prescriptive data solutions. I am currently seeking full-time data related roles where I can apply this dual-domain depth to solve industrial-scale challenges.
 
 -----
 
