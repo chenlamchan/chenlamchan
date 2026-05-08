@@ -29,7 +29,7 @@ I thrive on architecting the "hard" side of the backend—optimizing for efficie
 
   * **Machine Learning & Data Science**
     - Frameworks: PyTorch · Scikit-learn
-    - Libraries: Pandas · NumPy
+    - Libraries: Pandas · NumPy ·SciPy
       
   * **Infrastructure**
     - Containerization: Docker Compose
