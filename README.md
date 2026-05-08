@@ -1,4 +1,4 @@
-# Hi there, I'm Chen Lam 👋
+## Data & ML Systems Engineer — Physical Systems Background
 
 <a href="https://linkedin.com/in/your-linkedin-username">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
@@ -8,33 +8,32 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email">
 </a>
 
-I am a Data Engineer who brings a system-level engineering mindset to building scalable data infrastructure.
+I build reliable data infrastructure and ML pipelines for problems where the data 
+is physically grounded, domain context determines whether the output means anything, 
+and the system has to keep working in production.
 
-My journey is unique: I spent over 4 years as a Mechanical Design Engineer at Dyson, solving complex physical optimization and system integration challenges. I have translating 'systems-first' engineering rigor —optimizing for constraints, efficiency, and reliability—directly into Distributed Data Systems. This pivot has been a deliberate, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. I don’t just write pipelines; I engineer fault-tolerant, high-throughput systems.
+My journey is unique: I spent over 4 years as a Mechanical Design Engineer, solving complex physical optimization and system integration challenges. I have translating 'systems-first' engineering rigor —optimizing for constraints, efficiency, and reliability—directly into Distributed Data Systems. This pivot has been a deliberate, built on a foundation of continuous self-study and hands-on projects, and capped off with a Master's in Computer Science. I don’t just write pipelines; I engineer fault-tolerant, high-throughput systems.
 
 I thrive on architecting the "hard" side of the backend—optimizing for efficiency, reliability, and mathematical logic, in order to produce predictive and prescriptive data solutions. I am currently seeking full-time data related roles where I can apply this dual-domain depth to solve industrial-scale challenges.
 
------
-
-### 🚀 What I'm Passionate About
-
-I am driven by the challenge of "building it right"—creating architectures that handle the nuances of real-world data (noise, sampling, physics) while maintaining the performance of a modern cloud-native stack.
-
-  * **Modern Data Architecture:** I enjoy architecting streaming and batch solutions with open-sourced tools.
-  * **Backend & Mathematical Logic:** I love coding systems with strong logical or mathematical foundations at their core. I like applying concepts like multithreading, multiprocessing, and vectorization to optimize performance. I'm currently exploring the bridge between high-level and high-performance languages, such as Python Rust bindings. 
-  * **Creative Integration:** I excel at integrating, fine-tuning, and customizing existing tools, models, and techniques to solve a specific problem.
-
-
 ### 🛠️ My Tech Stack & Core Competencies
 
-  * **Programming Languages:** Python, SQL, Rust (WIP)
-  * **Data Engineering:** Apache Kafka, Apache Spark, Apache Flink
-  * **Databases, Format & Storage:** Apache Iceberg, Apache Paimon, Clickhouse (OLAP), MinIO (Object)
-  * **Visualization & BI:** Apache Superset, Grafana
-  * **Containerization & Orchestration**: Docker
-  * **Observability & Monitoring**: Grafana, Prometheus, Tempo, Loki
-  * **Libraries:** Pandas, NumPy, Scikit-learn, Pytorch
-  * **Concepts:** Event Streaming and Processing, Data Pipelines (ETL/ELT), System Design, Data Modeling, Data Wrangling, Descriptive and Inferential Statistics
+  * **Programming Languages:** Python, SQL
+
+  * **Data Engineering**
+    - Stream: Apache Kafka · Apache Flink
+    - Batch: Apache Spark · dbt · Apache Airflow
+    - Storage: Data Lakehouse (Apache Iceberg · Apache Paimon) · ClickHouse · MinIO
+    - Query: Trino
+    - Viz: Streamlit · Apache Superset · Grafana
+
+  * **Machine Learning & Data Science**
+    - Frameworks: PyTorch · Scikit-learn
+    - Libraries: Pandas · NumPy
+      
+  * **Infrastructure**
+    - Containerization: Docker Compose
+    - Observability: PyTorch · Scikit-learn
 
 ### 📫 Let's Connect
 
