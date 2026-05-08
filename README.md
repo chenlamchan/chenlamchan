@@ -33,7 +33,6 @@ I thrive on architecting the "hard" side of the backend—optimizing for efficie
       
   * **Infrastructure**
     - Containerization: Docker Compose
-    - Observability: PyTorch · Scikit-learn
 
 ### 📫 Let's Connect
 
